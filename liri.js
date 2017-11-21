@@ -5,19 +5,27 @@ var spotify = require('node-spotify-api');
 var request = require('request');
 
 var input = process.argv;
-console.log(input);
 
-tweets();
-
-function tweets() {
+function tweets() 
+{
     var params = {screen_name: 'by_test2017'};
-    client.get('statuses/user_timeline', params, function(error, tweets, response) {
-      if (!error) {
-        console.log("Yay!");
-        console.log(tweets.length);
-        console.log(tweets[0].text);
-        console.log(tweets[0].created_at);
-      } else ("something went wrong")
+    client.get('statuses/user_timeline', params, function(error, tweets, response) 
+    {
+      if (!error) 
+      {
+        var TwitLength = tweets.length;
+        if(tweets.length > 20) 
+        {
+          TwitLength = 20
+        };
+        for(var i = 0; i < TwitLength; i++)
+        {
+          console.log("Tweet " + (i+1) + ": " + tweets[i].text);
+          console.log("Posted: " + tweets[i].created_at);
+        };
+      } else ("something went wrong pulling from Twitter")
     });
 }
+
+
 
