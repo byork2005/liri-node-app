@@ -1,0 +1,64 @@
+Tweet 1: test 3
+Posted: Mon Nov 20 19:25:13 +0000 2017Tweet 2: test 2
+Posted: Mon Nov 20 19:25:08 +0000 2017Tweet 3: test 1
+Posted: Mon Nov 20 19:24:59 +0000 2017Artist: AWOLNATION
+Song: Sail
+Album: Megalithic Symphony Deluxe
+Preview Url: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=2659e7f192d0460488f8103f2f001151
+--------------------------Title: Save the Last Dance
+Year: 2001
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Starring: Julia Stiles, Sean Patrick Thomas, Kerry Washington, Fredro Starr
+Plot: Sara wants to be a ballerina, but her dreams are cut short by the sudden death of her mother. She moves in with her father, who she has not seen for a long time. He lives on the other side of town, in a predominantly Black neighborhood. She gets transferred to a new school where she is one of the few White students there. She becomes friends with Chenille, and later, falls in love with Chenille's brother, Derek.
+--------------------------Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2659e7f192d0460488f8103f2f001151
+--------------------------Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Starring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+--------------------------Tweet 1: test 3
+Posted: Mon Nov 20 19:25:13 +0000 2017
+--------------------------
+Tweet 2: test 2
+Posted: Mon Nov 20 19:25:08 +0000 2017
+--------------------------
+Tweet 3: test 1
+Posted: Mon Nov 20 19:24:59 +0000 2017
+--------------------------
+Artist: Sir Mix-A-Lot
+Song: Baby Got Back
+Album: Jackass The Movie (The Official Soundtrack)
+Preview Url: null
+--------------------------
+Title: Jurassic Park
+Year: 1993
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Spanish
+Starring: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+Plot: Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.
+--------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2659e7f192d0460488f8103f2f001151
+--------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Starring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+--------------------------
